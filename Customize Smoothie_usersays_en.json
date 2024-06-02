@@ -1,0 +1,73 @@
+[
+  {
+    "id": "acdd421a-ff85-4213-b23b-37dae04ecfd9",
+    "data": [
+      {
+        "text": "I would like to add ",
+        "userDefined": false
+      },
+      {
+        "text": "whey",
+        "meta": "@CustomIngrident",
+        "alias": "CustomIngrident",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28d70b74-82fe-41cc-a8c7-174fff93374e",
+    "data": [
+      {
+        "text": "Can I choose my smoothie ingredients?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78ff6829-c8a2-4554-9e86-82f1cc3091a5",
+    "data": [
+      {
+        "text": "I\u0027d like to add to my strawberry smoothie.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "902a46fa-1318-4667-ac65-3e93741f4fdd",
+    "data": [
+      {
+        "text": "Can I add extra protein to my smoothie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77462d4c-57e3-4d86-af95-849662bc124a",
+    "data": [
+      {
+        "text": "I want to customize my smoothie.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

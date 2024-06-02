@@ -1,0 +1,9 @@
+{
+  "id": "2dd7c329-2918-407a-8365-3f520a27d347",
+  "name": "Complain",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

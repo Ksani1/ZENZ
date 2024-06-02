@@ -1,0 +1,9 @@
+{
+  "id": "b4bb7fbd-a4ef-4e67-b416-175de3814369",
+  "name": "CustomIngrident",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

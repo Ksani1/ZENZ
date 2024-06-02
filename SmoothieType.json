@@ -1,0 +1,9 @@
+{
+  "id": "e32e7126-11ab-4a43-927b-57e4448d3290",
+  "name": "SmoothieType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "id": "068062db-4604-4d7d-b892-c69a0d64bc5c",
+    "data": [
+      {
+        "text": "my gmail is ibkgraphics7",
+        "userDefined": false
+      },
+      {
+        "text": "@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4de4aabc-0f6a-4e71-b68d-55cd3d85c3f8",
+    "data": [
+      {
+        "text": "my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "3127213411",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45def8e5-39a4-4769-9e56-d99efab4b3c0",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "musa",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f90d6d10-4ed8-40c5-9ef7-3632859f6c3a",
+    "data": [
+      {
+        "text": " I have a concern about my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a9cb1a7-b821-42d7-a0e7-5c625a802e7f",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "report a problem",
+        "meta": "@Complain",
+        "alias": "complain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2c45b3b-9588-4d68-984d-7602aaadb11e",
+    "data": [
+      {
+        "text": "There\u0027s an issue with my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13e86145-5913-48f0-8eb5-a11f573a6313",
+    "data": [
+      {
+        "text": "I\u0027d like to complain about something.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1999eb4d-03f5-47f8-b4ec-7e0245f1dcf5",
+    "data": [
+      {
+        "text": "Can I file a ",
+        "userDefined": false
+      },
+      {
+        "text": "complaint",
+        "meta": "@Complain",
+        "alias": "complain",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a09470c-ac65-4ce0-b5a8-b6b471851bdc",
+    "data": [
+      {
+        "text": "I\u0027m not happy with my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ddff727-a9ff-4eb1-934c-6e4fad28931d",
+    "data": [
+      {
+        "text": "I have a report",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e6681e2-a497-4848-b506-c646ddc4ed02",
+    "data": [
+      {
+        "text": "\"I want to make a ",
+        "userDefined": false
+      },
+      {
+        "text": "complaint",
+        "meta": "@Complain",
+        "alias": "complain",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

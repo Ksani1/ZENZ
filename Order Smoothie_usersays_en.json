@@ -1,0 +1,176 @@
+[
+  {
+    "id": "90dca156-5782-4ede-a403-1c15253324ed",
+    "data": [
+      {
+        "text": "my gmail is hhjfffg@gmail",
+        "userDefined": false
+      },
+      {
+        "text": ".com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b23a452e-8a33-46ad-8eaa-3a7a638f2034",
+    "data": [
+      {
+        "text": "my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "3133344554",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdd55426-b818-451f-9c61-cfa5029caa41",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "jane",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa5af2b9-e48c-47d5-8620-e1270911b2e7",
+    "data": [
+      {
+        "text": "i want to purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "670abb88-2ba1-429f-bc42-6750013b5431",
+    "data": [
+      {
+        "text": "i want to buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "446b3014-9ccc-4527-be82-682f07966f0a",
+    "data": [
+      {
+        "text": "i want to order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fee04549-5dd4-4147-bd53-329bca4529d5",
+    "data": [
+      {
+        "text": "can I get a Tropical smoothie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb555d01-82ef-4f78-854c-3e0153d3fc42",
+    "data": [
+      {
+        "text": "can I get a Berry Strong smoothie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed1b330c-bdc7-40d7-b45d-eaaafecade4e",
+    "data": [
+      {
+        "text": "Can I get Peanut Butter Protein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67894ce3-0988-494f-a59e-11865b6548ba",
+    "data": [
+      {
+        "text": "Can I get a Strawberry Banana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bcae33f-b481-4138-a46d-9c131440f51e",
+    "data": [
+      {
+        "text": "Order a Strawberry Banana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8b047a2-9294-492e-9d9f-5918104c08fc",
+    "data": [
+      {
+        "text": "Order a Peanut Butter Protein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

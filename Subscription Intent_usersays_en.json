@@ -1,0 +1,66 @@
+[
+  {
+    "id": "24ae539b-e7a7-4db8-9575-113bf3d089f6",
+    "data": [
+      {
+        "text": "I want to subscribe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2abf7b10-2ad3-409a-b0ea-ec03f6107fd4",
+    "data": [
+      {
+        "text": "my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "3127213411",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc327a0f-2a37-49d2-9a88-c6b491afae3d",
+    "data": [
+      {
+        "text": "my gmail is asdss",
+        "userDefined": false
+      },
+      {
+        "text": "@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f0b2970-929a-4105-94b1-c9fae74bbf47",
+    "data": [
+      {
+        "text": "my name is Musa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

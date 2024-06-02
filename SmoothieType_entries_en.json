@@ -1,0 +1,65 @@
+[
+  {
+    "value": "Berry Strong",
+    "synonyms": [
+      "berry strong",
+      "Berry strong",
+      "mint berry",
+      "berry mint",
+      "mint and berry smoothie",
+      "Berry Stong Smoothie",
+      "berry",
+      "Berry",
+      "Strong",
+      "strong",
+      "BRS",
+      "brs"
+    ]
+  },
+  {
+    "value": "Peanut Butter Protein",
+    "synonyms": [
+      "Peanut Butter Protein",
+      "protein smoothie",
+      "peanut smoothie",
+      "peanut",
+      "nut",
+      "Butter",
+      "butter",
+      "pea",
+      "Pea",
+      "Nut",
+      "PBT",
+      "pbt"
+    ]
+  },
+  {
+    "value": "Strawberry Banana",
+    "synonyms": [
+      "Strawberry Banana",
+      "strawberry and banana",
+      "banana strawberry",
+      "Banana strawberry",
+      "strawberry banana",
+      "Straw",
+      "Banana",
+      "banana",
+      "straw",
+      "SBB",
+      "sbb"
+    ]
+  },
+  {
+    "value": "Tropical Smoothie",
+    "synonyms": [
+      "Tropical",
+      "Trop",
+      "Tro",
+      "Pineapple",
+      "Apple",
+      "tropical",
+      "TPC",
+      "tpc"
+    ]
+  }
+]

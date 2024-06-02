@@ -1,0 +1,9 @@
+{
+  "id": "7f2ad051-66b9-4892-b13e-1c4f989f020d",
+  "name": "Subscribe",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
