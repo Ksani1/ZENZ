@@ -27,6 +27,6 @@ Experience OrderBot in action! Click the image below to try our live demo:
 
 <p align="center">
   <a href="https://console.dialogflow.com/api-client/demo/embedded/ae36f2a4-ae1a-43d0-8dc9-e15f6251230a">
-    <img src="https://github.com/ksani1/Customer-Service-Chatbot/blob/main/AI%20Automation%20News.jpeg" alt="OrderBot Demo" width="600"/>
+    <img src="https://github.com/ksani1/Customer-Service-Chatbot/blob/main/Logo.jpeg" alt="OrderBot Demo" width="600"/>
   </a>
 </p>
