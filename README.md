@@ -1,7 +1,7 @@
 # 🤖 OrderBot: AI-Powered Order Management Assistant
 
 <p align="center">
-  <img src="https://your-image-url.com/orderbot-logo.png" alt="OrderBot Logo" width="200"/>
+  <img src="https://github.com/ksani1/Customer-Service-Chatbot/blob/main/AI%20Automation%20News.jpeg" alt="OrderBot Logo" width="200"/>
 </p>
 
 <p align="center">
