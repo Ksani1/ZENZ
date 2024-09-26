@@ -30,15 +30,3 @@ Experience OrderBot in action! Click the image below to try our live demo:
     <img src="https://your-image-url.com/demo-screenshot.png" alt="OrderBot Demo" width="600"/>
   </a>
 </p>
-
-## 🚀 Integration
-
-Integrate OrderBot into your website by adding the following code:
-
-```html
-<iframe 
-  width="350" 
-  height="430" 
-  allow="microphone;" 
-  src="https://console.dialogflow.com/api-client/demo/embedded/ae36f2a4-ae1a-43d0-8dc9-e15f6251230a">
-</iframe>
